@@ -6,7 +6,6 @@
   Classification /
   Neural Networks /
   CNN Convolutional neuro analysis /
-  RNN /
   Transformers /
   NLPS /
   LLMS /
