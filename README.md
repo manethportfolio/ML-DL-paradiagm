@@ -2,8 +2,58 @@
 
 The following template presents all projects:
 
-Regression analysis / Classification / Neural Networks / CNN Convolutional neuro analysis / Transformers / NLPS / LLMS / Computer vision / GANS
-
+<p align="left">
+Regression analysis :  <br/>
+Linear : House Prediction Model <br/>
+         Energy Consumption forecasting </br>
+</br>
+Logistic : Loan Default Prediction <br/>
+           Customer Churn Prediction <br/>
+</br>
+Decision trees : <br/>
+Product Recommendation <br/>
+Credit scoring <br/>
+</br>
+Random Forest : <br/>
+Crop Disease Detection 
+</br>
+K-Means Clustering: 
+Document Clustering <br/>
+Retail Store Location Optimization <br/>
+</br>
+Naive Bayes: <br/>
+Sentiment Analysis (Naive Bayes) <br/>
+Healthcare Diagnosis (Naive Bayes) <br/>
+</br>
+Neural Networks (Deep Learning): <br/>
+Language Translation (RNN) <br/>
+Image Recognition (CNN) <br/>
+Genome Sequence Classification (Convolutional Neural Networks - CNN) <br/>
+</br>
+Principal Component Analysis (PCA): <br/>
+Face Recognition with PCA: <br/>
+Stock Market Portfolio Optimization: <br/>
+</br>
+Reinforcement Learning: <br/>
+Autonomous Robot Navigation
+Game AI (Reinforcement Learning)
+</br>
+Natural Language Processing (NLP) <br/>
+News Article Summarization <br/>
+Language Model Chatbot <br/>
+</br>
+Recommender Systems: <br/>
+Music Recommendation System <br/>
+E-commerce Product Recommendations <br/>
+</br>
+Time Series Forecasting: <br/>
+Weather Forecasting <br/>
+Demand Forecasting <br/>
+</br>
+Genetic Algorithms: <br/>
+Job Scheduling Optimization <br/>
+Vehicle Routing (Genetic Algorithms) <br/>
+</p>
 #
 
 ## Technologies
